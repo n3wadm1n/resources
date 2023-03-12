@@ -30,3 +30,4 @@ https://cyware.com/cyber-security-news-articles
 
 https://t.me/cibsecurity
 
+https://training.dfirdiva.com/
