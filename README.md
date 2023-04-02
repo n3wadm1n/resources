@@ -18,6 +18,8 @@ https://github.com/lutzenfried/OffensiveCloud
 
 https://github.com/sindresorhus/awesome
 
+https://www.kitploit.com/
+
 https://tryhackme.com/
 
 https://github.com/liamg/traitor
