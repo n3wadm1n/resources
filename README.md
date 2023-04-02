@@ -10,6 +10,8 @@ https://start.me/p/1kxyw9/v3nari-bookmarks
 
 https://github.com/A-poc/RedTeam-Tools
 
+https://github.com/arainho/awesome-api-security
+
 https://github.com/A-poc/BlueTeam-Tools
 
 https://github.com/lutzenfried/Methodology
