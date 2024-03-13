@@ -34,6 +34,7 @@ https://cyware.com/cyber-security-news-articles
 
 https://t.me/cibsecurity
 
+https://techguide.sh/
 https://training.dfirdiva.com/
 
 https://www.youtube.com/@RedZoneArea
