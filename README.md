@@ -42,3 +42,6 @@ https://techguide.sh/
 
 https://free-for.dev/
 
+https://github.com/CyberSecurityUP/Red-Team-Management
+
+https://github.com/Ignitetechnologies/Mindmap
